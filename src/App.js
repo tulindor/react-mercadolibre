@@ -25,6 +25,7 @@ class App extends Component {
     const respuesta = await fetch (url);
     //retornamos la respuesta en un json (para procesarla)
     const productos = await respuesta.json();
+    console.log(productos);
     
     //envio la respuesta al state noticias
     this.setState({
