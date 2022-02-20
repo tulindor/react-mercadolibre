@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,SACE,wBAEF,CAEA,MACE,gBACF,CAEA,WACE,6CACF,CAEA,QACE,eACF","file":"main.6af7da68.chunk.css","sourcesContent":[".bg-main{\n  background-color: #07689A;\n\n}\n\n.main{\n  min-height: 100vh;\n}\n\n.shadow-sm{\n  box-shadow: 0 2px 2px rgba(0,0,0,0.2) !important;\n}\n\n.m-main{\n  margin-top: 12vh;\n}"]}
